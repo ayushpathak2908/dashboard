@@ -1,0 +1,61 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+.brand {
+  font-size: 2.3rem;
+  padding: 1px;
+}
+.content {
+  padding: 24px; /* Add some padding around the content */
+}
+.ant-layout-sider {
+  background-color: purple;
+}
+
+/* Set the background color of the Menu to purple */
+.ant-menu {
+  background-color: purple;
+}
+#cardid {
+  position: "absolute";
+  margin-top: 52%;
+
+  width: 100%;
+  background-color: white;
+  margin: 30px 30px 30px 0px;
+}
+.header {
+  position: absolute;
+  left: 77%;
+  color: inherit;
+}
+#main {
+  position: absolute;
+}
+#dusra {
+  position: absolute;
+  left: 77%;
+}
+#para {
+  position: "absolute";
+  height: 3%;
+}
+#siderr {
+  background-color: #05044a;
+  color: white;
+}
+#dashboard {
+  color: white;
+  margin-left: 3%;
+}
+#menu {
+  background-color: #05044a;
+  color: white;
+}
+#table {
+  margin-top: 30%;
+}
+#table2 {
+  margin-top: 0.5%;
+}
